@@ -109,13 +109,13 @@ mv plandex /usr/local/bin # adapt as needed for your system
 <summary><b>Windows</b></summary>
 <br>
 <p>
-Windows is supported via <a href="https://learn.microsoft.com/en-us/windows/wsl/about">WSL</a>.
+Windows is supported via <a href="https://learn.microsoft.com/en-us/windows/wsl">WSL</a>.
 </p>
 </details>
 
 ## Get started  🚀
 
-If you don't have an OpenAI account, first [sign up here.](https://platform.openai.com/signup)
+If you don't have an OpenAI account, but want to, then first [sign up here.](https://platform.openai.com/signup)
 
 Then [generate an API key here.](https://platform.openai.com/account/api-keys)
 
